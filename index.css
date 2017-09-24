@@ -3,5 +3,32 @@ html{
 }
 
 ul{
-    color: #191970
+    color: #191970;
 }
+
+.pomodoro-estimate{
+    color:red;
+    font-weight: bold;
+    font-size: 14px;  
+    background-color: #C0C0C0;
+    padding: 5px 10px 5px 10px;
+    border-radius:50px;
+}
+
+#add-new-to-do-button{
+    font-size: 20px;
+    color: #FFF;
+    background-color: grey;
+    outline: none;
+    border-style: none;
+    padding: 3px;
+    border-radius: 25px;
+    box-shadow: 2px 1px 2px black;
+    display:block;
+    margin-top: 15px;
+}
+
+#add-new-to-do-button: active{
+    box-shadow: 1px 1px 1px black;
+  
+} 
