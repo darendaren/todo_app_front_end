@@ -8,7 +8,7 @@ li{
 }
 
 li:hover{
-    background-color: lightgreen;
+    background-color: lightblue;
 }
 
 ul{
@@ -34,10 +34,9 @@ ul{
     padding: 3px;
     border-radius: 25px;
     box-shadow: 2px 1px 2px black;
-    display:block;
+    display: block;
     margin-top: 15px;
-}
-
+    
 #add-new-to-do-button: active{
     box-shadow: 1px 1px 1px black;
 } 
@@ -52,10 +51,10 @@ background-color: white;
 color: black;
 }
 
-div{
-    background-color: red;
-    height: 100px;
-    width: 100px; 
+.div{
+    text-align: center;
+    background-color: lightgrey;
+    border-radius: 10px;
 }
 
 span{
