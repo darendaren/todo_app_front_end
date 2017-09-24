@@ -4,7 +4,7 @@ html{
 
 li{
     padding: 5px;
-    margin-bottom: : 10px;
+    margin-bottom: 10px;
 }
 
 li:hover{
@@ -28,7 +28,7 @@ ul{
 #add-new-to-do-button{
     font-size: 20px;
     color: #FFF;
-    background-color: grey;
+    background-color: darkred;
     outline: none;
     border-style: none;
     padding: 3px;
@@ -50,4 +50,15 @@ color: black;
 .box-two{
 background-color: white;
 color: black;
+}
+
+div{
+    background-color: red;
+    height: 100px;
+    width: 100px; 
+}
+
+span{
+    background-color: yellow;
+    color: red; 
 }
